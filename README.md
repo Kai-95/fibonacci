@@ -1,0 +1,3 @@
+# fibonacci
+
+rustでのフィボナッチ数列
